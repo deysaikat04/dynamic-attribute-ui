@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card renders 1`] = `
+<div
+  className="card text-dark bg-light mt-5"
+>
+  <div
+    className="card-body"
+  >
+    <h5
+      className="card-title"
+    >
+      Code of the dynamic input field
+    </h5>
+    <p
+      className=""
+    >
+      <code>
+        &lt;input
+  type="email"
+  id="emailId"
+  className="email-class"
+  aria-describedby="ipSize"
+  name="email"
+  size="10"
+  placeholder="Enter your email..."
+/&gt;
+      </code>
+    </p>
+  </div>
+</div>
+`;

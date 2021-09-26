@@ -1,0 +1,3 @@
+export const SET_ATTRIBUTE = 'SET_ATTRIBUTE';
+export const UPDATE_ATTRIBUTE = 'UPDATE_ATTRIBUTE';
+export const SET_ERROR = 'SET_ERROR';
